@@ -1,6 +1,6 @@
 # GoMarketplace
 
-Aplicação _mobile_ para gerenciamento de um carrinho de compras aplicado no Bootcamp da GoStack - [Rocketseat](https://rocketseat.com.br/).
+Aplicação _mobile_ para gerenciamento de um carrinho de compras aplicado no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/).
 
 ![](https://imgur.com/O8UW80B.png)
 
