@@ -1,6 +1,6 @@
 # GoMarketplace
 
-Aplicação _mobile_ para gerenciamento de um carrinho de compras aplicado no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/).
+Aplicação móvel para gerenciamento de um carrinho de compras aplicado no Bootcamp da GoStack 14 da [Rocketseat](https://rocketseat.com.br/).
 
 ![](https://imgur.com/O8UW80B.png)
 
@@ -13,7 +13,6 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 - [styled-components](https://styled-components.com/)
 - [json-server](https://github.com/typicode/json-server)
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-- [vs code][vc]
 
 ## ℹ️ Executando
 
